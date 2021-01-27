@@ -12,5 +12,5 @@ Hi, I'm Na'il (a.k.a lleans), I'm currently a student at SMK Telkom Malang, I'm 
 For those of you want see my school work, go to this gentleman [Ahmadun Na'il](https://github.com/ahmaduunnail)
 
 ![lleans github stats](https://github-readme-stats.vercel.app/api?username=lleans&theme=dark&show_icons=true&hide_border=true&text_color=fff&bg_color=151B23)
-#
+
 ![lleans github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lleans&theme=dark&show_icons=true&hide_border=true&text_color=fff&bg_color=151B23&hide_title=False)
