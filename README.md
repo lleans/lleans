@@ -13,4 +13,4 @@ For those of you want see my school work, go to this gentleman [Ahmadun Na'il](h
 
 ![lleans github stats](https://github-readme-stats.vercel.app/api?username=lleans&theme=dark&show_icons=true&hide_border=true&text_color=fff&bg_color=151B23)
 
-![lleans github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lleans&theme=dark&show_icons=true&hide_border=true&text_color=fff&bg_color=151B23&hide_title=False)
+![lleans github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lleans&theme=dark&show_icons=true&hide_border=true&text_color=fff&bg_color=151B23)
