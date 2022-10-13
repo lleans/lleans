@@ -1,7 +1,7 @@
 <img align="right" src="https://metrics.lecoq.io/lleans?template=terminal">
 
 ## 👋 Hi there, welcome to my profile
-Hi, I'm lleans, I'm currently Fresh Graduate, I'm prefer autodidact, if there some projects i intrested i'll contribute, I also can UI/UX so mostly i'll contribute at Front-Dev.
+Hi. I'm lleans. Currently learning on Polytechnic. I'm prefer autodidact. If there some intresting projects i'll contribute. I also can UI/UX so mostly i'll contribute at Front-Dev.
 
 ## 🎁 More about me
 - 🎭 Just a guy who likes to watch Anime and Netflix.
